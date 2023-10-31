@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello 👋
 
-<!--
-**gmasquelier59/gmasquelier59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Guillaume, a <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> french developer from <b>Lille, France</b>.
 
-Here are some ideas to get you started:
+My profile is under construction 😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I code with</h3>
+<p>
+    <img alt="C#" src="https://img.shields.io/badge/-C%23-311C87?style=flat-square&logo=csharp&logoColor=white" />
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-311C87?style=flat-square&logo=php&logoColor=white" />
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-13aa52?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-13aa52?style=flat-square&logo=css3&logoColor=white" />
+    <img alt="JS" src="https://img.shields.io/badge/-Javascript-13aa52?style=flat-square&logo=javascript&logoColor=white" />
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-E10098?style=flat-square&logo=visualstudiocode&logoColor=white" />
+    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-E34F26?style=flat-square&logo=prettier&logoColor=white" />
+</p>
