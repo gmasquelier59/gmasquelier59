@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm Guillaume, a <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> french developer from <b>Lille, France</b>.
+I'm Guillaume, a french developer from <b>Lille, <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> France</b>.
 
 My profile is under construction 😁
 
@@ -16,7 +16,7 @@ My profile is under construction 😁
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-E34F26?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 -->
-<table><tr><td valign="top" width="50%">
+<table border="0" width="100%"><tr><td valign="top" width="50%">
 
 
 
@@ -48,6 +48,7 @@ My profile is under construction 😁
 </td></tr></table>  
 
 ## Some stats about my profile
+<div align="center"> 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=gmasquelier59&show_icons=true&theme=dark&hide_border=true"
@@ -59,3 +60,4 @@ My profile is under construction 😁
   />
   <img src="https://github-readme-stats.vercel.app/api?username=gmasquelier59&show_icons=true&hide_border=true" />
 </picture>
+</div>
