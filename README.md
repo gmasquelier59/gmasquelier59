@@ -16,9 +16,7 @@ My profile is under construction 😁
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-E34F26?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 -->
-<table border="0" width="100%"><tr><td valign="top" width="50%">
-
-
+<table border="0" style="border: none; width: 100%"><tr><td valign="top" width="50%">
 
 ### Backend  
 <div align="center">  
