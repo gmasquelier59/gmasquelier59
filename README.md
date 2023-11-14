@@ -30,6 +30,10 @@ I'm Guillaume, a french developer from <b>Lille, <img src="https://cdn-icons-png
 
 ## Some stats about my profile
 
+<div align="center">
+<a href="https://www.codewars.com/users/gmasquelier" target="_blank"><img src="https://www.codewars.com/users/gmasquelier/badges/large"></a>
+</div>
+<br>
 <div align="center"> 
 <picture>
   <source
