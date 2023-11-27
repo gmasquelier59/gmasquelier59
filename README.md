@@ -9,6 +9,9 @@ J'ai eu ensuite mon premier PC avec Windows 95, et j'ai alors commencé à utili
 
 C'est en entrant à l'université que j'ai plongé dans le monde professionnel avec, pour premiers langages, Java, Cobol et l'assembleur.
 S'en est suivie une carrière professionnelle de 18 ans dans le développement back-end et front-end, durant laquelle je peux exprimer mes compétences techniques, opérationnelles et managériales.
+
+Mon premier et seul site web encore en ligne développé personnellement (première année d'université) : http://clandestomates.free.fr/
+
 -->
 
 It was around my 10th birthday (in the 90s 😁) I enjoyed typing my first lines of code on an [Atari ST](https://en.wikipedia.org/wiki/Atari_ST) in [GFA Basic](https://en.wikipedia.org/wiki/GFA_BASIC). I subscribed to [ST Magazine](https://fr.wikipedia.org/wiki/ST_Magazine) which talked in particular about programming, with code examples (GFA Punch) in order to learn language and techniques. I created various softwares for personal use.
@@ -17,6 +20,8 @@ I got my first PC with Windows 95, and I started using Visual Basic 4, then vers
 
 It was upon entering university that I plunged into the professional world with Java, Cobol and Assembler as my first languages.
 What followed was a 18 years professional career in back-end and front-end development, during which I was able to express my technical, operational and managerial skills.
+
+🍅 My first and only website still online developed by myself (first year of university): http://clandestomates.free.fr/
 
 ## Things I code with
 
