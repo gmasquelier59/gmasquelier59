@@ -35,6 +35,8 @@ What followed was a **18 years professional career in back-end and front-end dev
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-masquelier-b9433314/) or reach me out directly at gmasquelier@gmail.com
 
+📢 **Available for business from April 2024**
+
 ## Things I code with
 
 <p>

@@ -187,3 +187,7 @@ I developed a gateway allowing articles created by journalists to be exported fr
     <img alt="Perl" src="https://img.shields.io/badge/-Perl-006d77?style=flat-square&logo=perl&logoColor=white" />
     <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-83c5be?style=flat-square&logo=mysql&logoColor=white" />
 </p>
+
+## Others projects
+
+Ville de Dijon, Conseil Départemental du Pas-de-Calais, Académie de Lille
