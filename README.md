@@ -23,6 +23,8 @@ I got my first PC with Windows 95, and I started using Visual Basic 4, then vers
 It was upon entering university that I plunged into the professional world with Java, Cobol and Assembler as my first languages.
 What followed was a 18 years professional career in back-end and front-end development, during which I was able to express my technical, operational and managerial skills.
 
+👷 My professional experience has allowed me to work on different projects, with various technologies and scales. [Consult them here](my_projects.md)
+
 🍅 My first and only website still online developed by myself (first year of university): http://clandestomates.free.fr/
 
 ✈️ Some countries I visited: United States (California), Peru, Bolivia, Laos, Cambodia, Spain
@@ -58,16 +60,6 @@ What followed was a 18 years professional career in back-end and front-end devel
     <br><img alt="Github" src="https://img.shields.io/badge/-Github-e29578?style=flat-square&logo=github&logoColor=white" />
     <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-e29578?style=flat-square&logo=gitlab&logoColor=white" />
 </p>
-
-## Projects I have worked on
-
-<!--
-Mon expérience professionnelle m'a permis de travailler sur différents projets, avec des technologies et des envergures diverses.
--->
-
-My professional experience has allowed me to work on different projects, with various technologies and scales.
-
-[Consult them here](my_projects.md)
 
 ## Some stats about my profile
 
