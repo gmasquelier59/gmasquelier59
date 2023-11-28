@@ -31,6 +31,10 @@ What followed was a **18 years professional career in back-end and front-end dev
 
 📻 I'm the proud owner of Radio of Magic, a web radio (fully online) that broadcasts music from Disneyland Paris, for free. [Listen here](https://www.radio-of-magic.com)
 
+## Get in touch
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-masquelier-b9433314/) or reach me out directly at gmasquelier@gmail.com
+
 ## Things I code with
 
 <p>
