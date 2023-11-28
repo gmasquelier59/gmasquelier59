@@ -41,8 +41,10 @@ I developed the intranet of one of my former companies to be able to manage the 
 
 ## City of _Lille (France)_ intranet
 
-<img src="https://img.shields.io/badge/Online-386641" />
-<img src="https://img.shields.io/badge/Private-e76f51" /><br>
+<p>
+    <img src="https://img.shields.io/badge/Online-386641" />
+    <img src="https://img.shields.io/badge/Private-e76f51" />
+</p>
 
 📅 **≃ 2016**
 
@@ -50,23 +52,28 @@ I developed the intranet of one of my former companies to be able to manage the 
 L'intranet de la ville de Lille est utilisé par plus de 4500 agents municipaux. Après avoir rédigé les spécifications techniques, j'ai développé l'outil sur une base eZ Publish avec plus de 50% des fonctionnalités à développer from scratch. Les agents s'identifient automatiquement depuis leur poste de travail, sans avoir à saisir leur identifiant et leur mot de passe, grâce à un SSO basé sur Active Directory. L'agent peut consulter différentes informations issues de webservices métiers.
 -->
 The city of Lille intranet is used by more than 4,500 municipal agents. After writing the technical specifications, I developed the tool on an eZ Publish basis with more than 50% of the features to be developed from scratch. Agents identify themselves automatically from their workstation, without having to enter their username and password, thanks to SSO based on Active Directory. The agent can consult various information from business web services.
-<br>
 
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-006d77?style=flat-square&logo=php&logoColor=white" />
-<img alt="eZ Publish" src="https://img.shields.io/badge/-eZ%20Publish-83c5be?style=flat-square&logo=ezpublish&logoColor=white" />
-<img alt="Mysql" src="https://img.shields.io/badge/-Mysql-83c5be?style=flat-square&logo=mysql&logoColor=white" />
-<img alt="Active Directory" src="https://img.shields.io/badge/-Active%20Directory-83c5be?style=flat-square&logo=msactivedirectory&logoColor=white" />
+<p>
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-006d77?style=flat-square&logo=php&logoColor=white" />
+    <img alt="eZ Publish" src="https://img.shields.io/badge/-eZ%20Publish-83c5be?style=flat-square&logo=ezpublish&logoColor=white" />
+    <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-83c5be?style=flat-square&logo=mysql&logoColor=white" />
+    <img alt="Active Directory" src="https://img.shields.io/badge/-Active%20Directory-83c5be?style=flat-square&logo=msactivedirectory&logoColor=white" />
+</p>
 
-<img alt="Author of technical specifications" src="https://img.shields.io/badge/Author%20of%20technical%20specifications-2a9d8f" />
-<img alt="Single Sign-On" src="https://img.shields.io/badge/
-SSO%20(Single%20SignOn)%20with%20Active%20Directory-2a9d8f" />
-<img alt="SOAP Webservices" src="https://img.shields.io/badge/
-SOAP%20Webservices-2a9d8f" />
+<p>
+    <img alt="Author of technical specifications" src="https://img.shields.io/badge/Author%20of%20technical%20specifications-2a9d8f" />
+    <img alt="Single Sign-On" src="https://img.shields.io/badge/
+    SSO%20(Single%20SignOn)%20with%20Active%20Directory-2a9d8f" />
+    <img alt="SOAP Webservices" src="https://img.shields.io/badge/
+    SOAP%20Webservices-2a9d8f" />
+<p/>
 
 ## City of _Lille (France)_ website
 
-<img src="https://img.shields.io/badge/Online-386641" />
-<img src="https://img.shields.io/badge/Public-386641" /><br>
+<p>
+    <img src="https://img.shields.io/badge/Online-386641" />
+    <img src="https://img.shields.io/badge/Public-386641" />
+</p>
 
 📅 **≃ 2015**
 
@@ -77,18 +84,24 @@ I worked on the redesign of the website of the city of Lille (4th largest city i
 
 ➡️ https://www.lille.fr 
 
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-006d77?style=flat-square&logo=php&logoColor=white" />
-<img alt="eZ Publish" src="https://img.shields.io/badge/-eZ%20Publish-83c5be?style=flat-square&logo=ezpublish&logoColor=white" />
-<img alt="Mysql" src="https://img.shields.io/badge/-Mysql-83c5be?style=flat-square&logo=mysql&logoColor=white" />
+<p>
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-006d77?style=flat-square&logo=php&logoColor=white" />
+    <img alt="eZ Publish" src="https://img.shields.io/badge/-eZ%20Publish-83c5be?style=flat-square&logo=ezpublish&logoColor=white" />
+    <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-83c5be?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
-<img alt="SOAP Webservices" src="https://img.shields.io/badge/
-SOAP%20Webservices-2a9d8f" />
-<img alt="Author of technical specifications" src="https://img.shields.io/badge/Author%20of%20technical%20specifications-2a9d8f" />
+<p>
+    <img alt="SOAP Webservices" src="https://img.shields.io/badge/
+    SOAP%20Webservices-2a9d8f" />
+    <img alt="Author of technical specifications" src="https://img.shields.io/badge/Author%20of%20technical%20specifications-2a9d8f" />
+</p>
 
 ## City of _Tourcoing (France)_ website
 
-<img src="https://img.shields.io/badge/Online-386641" />
-<img src="https://img.shields.io/badge/Public-386641" /><br>
+<p>
+    <img src="https://img.shields.io/badge/Online-386641" />
+    <img src="https://img.shields.io/badge/Public-386641" />
+</p>
 
 📅 **≃ 2015**
 
@@ -99,15 +112,19 @@ The redesign of the city's website made it possible to set up a secure space for
 
 ➡️ https://www.tourcoing.fr
 
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-006d77?style=flat-square&logo=php&logoColor=white" />
-<img alt="eZ Publish" src="https://img.shields.io/badge/-eZ%20Publish-83c5be?style=flat-square&logo=ezpublish&logoColor=white" />
-<img alt="Mysql" src="https://img.shields.io/badge/-Mysql-83c5be?style=flat-square&logo=mysql&logoColor=white" />
+<p>
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-006d77?style=flat-square&logo=php&logoColor=white" />
+    <img alt="eZ Publish" src="https://img.shields.io/badge/-eZ%20Publish-83c5be?style=flat-square&logo=ezpublish&logoColor=white" />
+    <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-83c5be?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
-<img alt="Author of technical specifications" src="https://img.shields.io/badge/Author%20of%20technical%20specifications-2a9d8f" />
-<img alt="Single Sign-On" src="https://img.shields.io/badge/
-SSO%20(Single%20SignOn)-2a9d8f" />
-<img alt="SOAP Webservices" src="https://img.shields.io/badge/
-SOAP%20Webservices-2a9d8f" />
+<p>
+    <img alt="Author of technical specifications" src="https://img.shields.io/badge/Author%20of%20technical%20specifications-2a9d8f" />
+    <img alt="Single Sign-On" src="https://img.shields.io/badge/
+    SSO%20(Single%20SignOn)-2a9d8f" />
+    <img alt="SOAP Webservices" src="https://img.shields.io/badge/
+    SOAP%20Webservices-2a9d8f" />
+</p>
 
 ## Framework and proprietary CMS in C# / .Net version 1.1
 
@@ -120,15 +137,21 @@ J'ai développé un framework en C# / .Net (version 1.1) avec lequel nous avons 
 -->
 I developed a framework in C# / .Net (version 1.1) with which we designed the company's proprietary CMS (Content Management System), used by several websites.
 
-<img alt="C#" src="https://img.shields.io/badge/-C%23-006d77?style=flat-square&logo=csharp&logoColor=white" />
-<img alt=".Net" src="https://img.shields.io/badge/-.Net-006d77?style=flat-square&logo=dotnet&logoColor=white" />
-<img alt="SQL Server" src="https://img.shields.io/badge/-Sql Server-83c5be?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+<p>
+    <img alt="C#" src="https://img.shields.io/badge/-C%23-006d77?style=flat-square&logo=csharp&logoColor=white" />
+    <img alt=".Net" src="https://img.shields.io/badge/-.Net-006d77?style=flat-square&logo=dotnet&logoColor=white" />
+    <img alt="SQL Server" src="https://img.shields.io/badge/-Sql Server-83c5be?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+</p>
 
-<img alt="Author of technical specifications" src="https://img.shields.io/badge/Author%20of%20technical%20specifications-2a9d8f" />
+<p>
+    <img alt="Author of technical specifications" src="https://img.shields.io/badge/Author%20of%20technical%20specifications-2a9d8f" />
+</p>
 
 ## _La Voix du Nord (newspaper)_ website
 
-<img src="https://img.shields.io/badge/Offline-d62828" /><br/>
+<p>
+    <img src="https://img.shields.io/badge/Offline-d62828" />
+</p>
 
 📅 **≃ 2004**
 
@@ -137,5 +160,7 @@ J'ai développé une passerelle permettant d'exporter les articles créés par l
 -->
 I developed a gateway allowing articles created by journalists to be exported from their editorial tool, in a proprietary format, to the website with daily updates.
 
-<img alt="Perl" src="https://img.shields.io/badge/-Perl-006d77?style=flat-square&logo=perl&logoColor=white" />
-<img alt="Mysql" src="https://img.shields.io/badge/-Mysql-83c5be?style=flat-square&logo=mysql&logoColor=white" />
+<p>
+    <img alt="Perl" src="https://img.shields.io/badge/-Perl-006d77?style=flat-square&logo=perl&logoColor=white" />
+    <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-83c5be?style=flat-square&logo=mysql&logoColor=white" />
+</p>
