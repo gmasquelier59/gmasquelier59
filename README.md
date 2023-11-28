@@ -29,7 +29,7 @@ What followed was a **18 years professional career in back-end and front-end dev
 
 ✈️ Some countries I visited: United States (California), Peru, Bolivia, Laos, Cambodia, Spain
 
-📻 I'm the proud owner of Radio of Magic, a webradio that broadcast the music of Disneyland Paris. [Listen here](https://www.radio-of-magic.com)
+📻 I'm the proud owner of Radio of Magic, a web radio (fully online) that broadcasts music from Disneyland Paris, for free. [Listen here](https://www.radio-of-magic.com)
 
 ## Things I code with
 
