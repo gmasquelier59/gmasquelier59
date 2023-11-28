@@ -14,8 +14,10 @@ Here are some of the professional projects I have contributed to, mainly as a ba
 
 ## Intranet of one of my former companies
 
-<img src="https://img.shields.io/badge/Online-386641" />
-<img src="https://img.shields.io/badge/Private-e76f51" /><br>
+<p>
+    <img src="https://img.shields.io/badge/Online-386641" />
+    <img src="https://img.shields.io/badge/Private-e76f51" />
+</p>
 
 📅 **≃ 2020**
 
@@ -24,14 +26,18 @@ J'ai réalisé l'intranet d'une de mes anciennes entreprises pour pouvoir gérer
 -->
 I developed the intranet of one of my former companies to be able to manage the planning and monitoring of company projects, budgets, human resources, monitoring of working time, etc. It is used daily by all employees.
 
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-006d77?style=flat-square&logo=php&logoColor=white" />
-<img alt="Symfony" src="https://img.shields.io/badge/-Symfony-006d77?style=flat-square&logo=symfony&logoColor=white" />
-<img alt="eZ Publish" src="https://img.shields.io/badge/-eZ%20Publish-83c5be?style=flat-square&logo=ezpublish&logoColor=white" />
-<img alt="Mysql" src="https://img.shields.io/badge/-Mysql-83c5be?style=flat-square&logo=mysql&logoColor=white" />
+<p>
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-006d77?style=flat-square&logo=php&logoColor=white" />
+    <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-006d77?style=flat-square&logo=symfony&logoColor=white" />
+    <img alt="eZ Publish" src="https://img.shields.io/badge/-eZ%20Publish-83c5be?style=flat-square&logo=ezpublish&logoColor=white" />
+    <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-83c5be?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
-<img alt="Author of technical specifications" src="https://img.shields.io/badge/Author%20of%20technical%20specifications-2a9d8f" />
-<img alt="Single Sign-On" src="https://img.shields.io/badge/SSO%20(Single%20SignOn)%20with%20Google-2a9d8f" />
-<img alt="Single Sign-On" src="https://img.shields.io/badge/Google%20Workspace%20API-2a9d8f" />
+<p>
+    <img alt="Author of technical specifications" src="https://img.shields.io/badge/Author%20of%20technical%20specifications-2a9d8f" />
+    <img alt="Single Sign-On" src="https://img.shields.io/badge/SSO%20(Single%20SignOn)%20with%20Google-2a9d8f" />
+    <img alt="Single Sign-On" src="https://img.shields.io/badge/Google%20Workspace%20API-2a9d8f" />
+</p>
 
 ## City of _Lille (France)_ intranet
 
