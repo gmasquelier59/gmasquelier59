@@ -21,13 +21,15 @@ It was around my 10th birthday (in the 90s 😁) I enjoyed typing my first lines
 I got my first PC with Windows 95, and I started using Visual Basic 4, then versions 5 & 6. Here again, I created personal software (a CD player with integrated karaoke and customizable skin, a multimedia file reader, and a Powerpoint / Scala style software).
 
 It was upon entering university that I plunged into the professional world with Java, Cobol and Assembler as my first languages.
-What followed was a 18 years professional career in back-end and front-end development, during which I was able to express my technical, operational and managerial skills.
+What followed was a **18 years professional career in back-end and front-end development** (C#, Perl, PHP, HTML, CSS, Javascript, API, etc.), during which I was able to express my **technical, operational and managerial skills**.
 
 👷 My professional experience has allowed me to work on different projects, with various technologies and scales. [Consult them here](my_projects.md)
 
 🍅 My first and only website still online developed by myself (first year of university): http://clandestomates.free.fr/
 
 ✈️ Some countries I visited: United States (California), Peru, Bolivia, Laos, Cambodia, Spain
+
+📻 I'm the proud owner of Radio of Magic, a webradio that broadcast the music of Disneyland Paris. [Listen here](https://www.radio-of-magic.com)
 
 ## Things I code with
 
