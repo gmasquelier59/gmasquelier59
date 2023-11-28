@@ -39,6 +39,34 @@ I developed the intranet of one of my former companies to be able to manage the 
     <img alt="Single Sign-On" src="https://img.shields.io/badge/Google%20Workspace%20API-2a9d8f" />
 </p>
 
+## Palais des Beaux-Arts de Lille
+
+<p>
+    <img src="https://img.shields.io/badge/Online-386641" />
+    <img src="https://img.shields.io/badge/Public-386641" />
+</p>
+
+📅 **≃ 2017**
+
+<!--
+La refonte du site web du Palais des Beaux Arts de Lille a permis d'intégrer des fonctionnalités interactives en lien direct avec les espaces numériques présents sur le site du Palais.
+-->
+The redesign of the website of the Palais des Beaux Arts of Lille made it possible to integrate interactive features directly linked to the digital spaces present in the Palais.
+
+➡️ https://pba.lille.fr
+
+<p>
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-006d77?style=flat-square&logo=php&logoColor=white" />
+    <img alt="eZ Publish" src="https://img.shields.io/badge/-eZ%20Publish-83c5be?style=flat-square&logo=ezpublish&logoColor=white" />
+    <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-83c5be?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+<p>
+    <img alt="Author of technical specifications" src="https://img.shields.io/badge/Author%20of%20technical%20specifications-2a9d8f" />
+    <img alt="Single Sign-On" src="https://img.shields.io/badge/SSO%20(Single%20SignOn)-2a9d8f" />
+    <img alt="SOAP Webservices" src="https://img.shields.io/badge/SOAP%20Webservices-2a9d8f" />
+</p>
+
 ## City of _Lille (France)_ intranet
 
 <p>
