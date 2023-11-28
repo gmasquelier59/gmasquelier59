@@ -62,10 +62,8 @@ The city of Lille intranet is used by more than 4,500 municipal agents. After wr
 
 <p>
     <img alt="Author of technical specifications" src="https://img.shields.io/badge/Author%20of%20technical%20specifications-2a9d8f" />
-    <img alt="Single Sign-On" src="https://img.shields.io/badge/
-    SSO%20(Single%20SignOn)%20with%20Active%20Directory-2a9d8f" />
-    <img alt="SOAP Webservices" src="https://img.shields.io/badge/
-    SOAP%20Webservices-2a9d8f" />
+    <img alt="Single Sign-On" src="https://img.shields.io/badge/SSO%20(Single%20SignOn)%20with%20Active%20Directory-2a9d8f" />
+    <img alt="SOAP Webservices" src="https://img.shields.io/badge/SOAP%20Webservices-2a9d8f" />
 <p/>
 
 ## City of _Lille (France)_ website
@@ -91,8 +89,7 @@ I worked on the redesign of the website of the city of Lille (4th largest city i
 </p>
 
 <p>
-    <img alt="SOAP Webservices" src="https://img.shields.io/badge/
-    SOAP%20Webservices-2a9d8f" />
+    <img alt="SOAP Webservices" src="https://img.shields.io/badge/SOAP%20Webservices-2a9d8f" />
     <img alt="Author of technical specifications" src="https://img.shields.io/badge/Author%20of%20technical%20specifications-2a9d8f" />
 </p>
 
@@ -120,10 +117,8 @@ The redesign of the city's website made it possible to set up a secure space for
 
 <p>
     <img alt="Author of technical specifications" src="https://img.shields.io/badge/Author%20of%20technical%20specifications-2a9d8f" />
-    <img alt="Single Sign-On" src="https://img.shields.io/badge/
-    SSO%20(Single%20SignOn)-2a9d8f" />
-    <img alt="SOAP Webservices" src="https://img.shields.io/badge/
-    SOAP%20Webservices-2a9d8f" />
+    <img alt="Single Sign-On" src="https://img.shields.io/badge/SSO%20(Single%20SignOn)-2a9d8f" />
+    <img alt="SOAP Webservices" src="https://img.shields.io/badge/SOAP%20Webservices-2a9d8f" />
 </p>
 
 ## Framework and proprietary CMS in C# / .Net version 1.1
