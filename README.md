@@ -46,6 +46,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-masquelier-b
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-006d77?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-006d77?style=flat-square&logo=css3&logoColor=white" />
     <img alt="JS" src="https://img.shields.io/badge/-Javascript-006d77?style=flat-square&logo=javascript&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-006d77?style=flat-square&logo=typescript&logoColor=white" />
     <!-- -------------------------------------------------- -->
     <br>
     <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-83c5be?style=flat-square&logo=mysql&logoColor=white" />
@@ -60,10 +61,13 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-masquelier-b
     <img alt="Postman" src="https://img.shields.io/badge/-Postman-83c5be?style=flat-square&logo=postman&logoColor=white" />
     <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-83c5be?style=flat-square&logo=wordpress&logoColor=white" />
     <img alt="eZ Publish" src="https://img.shields.io/badge/-eZ%20Publish-83c5be?style=flat-square&logo=ezpublish&logoColor=white" />
+    <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-83c5be?style=flat-square&logo=nestjs&logoColor=white" />
     <!-- -------------------------------------------------- -->
     <br>
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-ffddd2?style=flat-square&logo=visualstudiocode&logoColor=black" />
     <img alt="Bash / Zsh" src="https://img.shields.io/badge/-Bash%20/%20Zsh-ffddd2?style=flat-square&logo=zsh&logoColor=black" />
+    <img alt="Bash / Zsh" src="https://img.shields.io/badge/-Bash%20/%20Zsh-ffddd2?style=flat-square&logo=DBeaver&logoColor=black" />
+    <img alt="PnPm" src="https://img.shields.io/badge/-PnPm-ffddd2?style=flat-square&logo=pnpm&logoColor=black" />
     <!-- -------------------------------------------------- -->
     <br><img alt="Github" src="https://img.shields.io/badge/-Github-e29578?style=flat-square&logo=github&logoColor=white" />
     <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-e29578?style=flat-square&logo=gitlab&logoColor=white" />
