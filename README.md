@@ -96,13 +96,13 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-masquelier-b
 <div align="center"> 
     <picture>
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=gmasquelier59&show_icons=true&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api?username=gmasquelier59&show_icons=true&theme=dark&custom_title=Global"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=gmasquelier59&show_icons=true&hide_border=true"
+        srcset="https://github-readme-stats.vercel.app/api?username=gmasquelier59&show_icons=true&hide_border=true&custom_title=Global"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=gmasquelier59&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gmasquelier59&show_icons=true&hide_border=true&custom_title=Global" />
     </picture>
 </div>
