@@ -79,16 +79,30 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-masquelier-b
 <a href="https://www.codewars.com/users/gmasquelier" target="_blank"><img src="https://www.codewars.com/users/gmasquelier/badges/large"></a>
 </div>
 <br>
+<div align="center">
+    <picture>
+    <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gmasquelier59&layout=donut&theme=dark"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gmasquelier59&layout=donut"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmasquelier59&layout=donut" />
+    </picture>
+</div>
+
 <div align="center"> 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gmasquelier59&show_icons=true&theme=dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gmasquelier59&show_icons=true&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=gmasquelier59&show_icons=true&hide_border=true" />
-</picture>
+    <picture>
+    <source
+        srcset="https://github-readme-stats.vercel.app/api?username=gmasquelier59&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://github-readme-stats.vercel.app/api?username=gmasquelier59&show_icons=true&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=gmasquelier59&show_icons=true&hide_border=true" />
+    </picture>
 </div>
