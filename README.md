@@ -68,6 +68,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-masquelier-b
     <img alt="Bash / Zsh" src="https://img.shields.io/badge/-Bash%20/%20Zsh-ffddd2?style=flat-square&logo=zsh&logoColor=black" />
     <img alt="Bash / Zsh" src="https://img.shields.io/badge/-Bash%20/%20Zsh-ffddd2?style=flat-square&logo=DBeaver&logoColor=black" />
     <img alt="PnPm" src="https://img.shields.io/badge/-PnPm-ffddd2?style=flat-square&logo=pnpm&logoColor=black" />
+        <img alt="PnPm" src="https://img.shields.io/badge/-Obsidian-ffddd2?style=flat-square&logo=obsidian&logoColor=black" />
     <!-- -------------------------------------------------- -->
     <br><img alt="Github" src="https://img.shields.io/badge/-Github-e29578?style=flat-square&logo=github&logoColor=white" />
     <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-e29578?style=flat-square&logo=gitlab&logoColor=white" />
