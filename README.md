@@ -31,6 +31,10 @@ What followed was a **18 years professional career in back-end and front-end dev
 
 📻 I'm the proud owner of Radio of Magic, a web radio (fully online) that broadcasts music from Disneyland Paris, for free. [Listen here](https://www.radio-of-magic.com)
 
+<img src="https://raw.githubusercontent.com/gmasquelier59/WebCaster/develop/resources/logo.png" style="width: 200px">
+
+**I am currently developing WebCaster, a web radio management tool based on Liquidsoap and Icecast, written in .Net Core / C#.** [Feel free to check it out 😅](https://github.com/gmasquelier59/WebCaster/tree/develop).
+
 ## Get in touch
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-masquelier-b9433314/) or reach me out directly at gmasquelier@gmail.com
@@ -42,6 +46,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-masquelier-b
 <p>
     <img alt="C#" src="https://img.shields.io/badge/-C%23-006d77?style=flat-square&logo=csharp&logoColor=white" />
     <img alt=".Net" src="https://img.shields.io/badge/-.Net-006d77?style=flat-square&logo=dotnet&logoColor=white" />
+    <img alt="Blazor" src="https://img.shields.io/badge/-Blazor-006d77?style=flat-square&logo=blazor&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-006d77?style=flat-square&logo=php&logoColor=white" />
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-006d77?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-006d77?style=flat-square&logo=css3&logoColor=white" />
