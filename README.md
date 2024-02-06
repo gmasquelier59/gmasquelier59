@@ -87,12 +87,13 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-masquelier-b
     <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-e29578?style=flat-square&logo=gitlab&logoColor=white" />
 </p>
 
-## Some stats about my profile
-
+## Some stats about my Github profile
+<!--
 <div align="center">
 <a href="https://www.codewars.com/users/gmasquelier" target="_blank"><img src="https://www.codewars.com/users/gmasquelier/badges/large"></a>
 </div>
 <br>
+-->
 <div align="center">
     <picture>
     <source
@@ -106,7 +107,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-masquelier-b
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmasquelier59&layout=donut" />
     </picture>
 </div>
-
+<br>
 <div align="center"> 
     <picture>
     <source
