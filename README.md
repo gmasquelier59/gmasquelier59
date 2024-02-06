@@ -31,11 +31,15 @@ What followed was a **18 years professional career in back-end and front-end dev
 
 📻 I'm the proud owner of Radio of Magic, a web radio (fully online) that broadcasts music from Disneyland Paris, for free (🎧 [Listen here](https://www.radio-of-magic.com)). For the moment, it is hosted at RadioKing but my goal is to self-host it with WebCaster (see below ⬇️).
 
-<img src="https://raw.githubusercontent.com/gmasquelier59/WebCaster/develop/resources/logo.png" style="width: 200px">
+<div style="border: 1px solid #bbb; padding: 10px">
+
+<img src="https://raw.githubusercontent.com/gmasquelier59/WebCaster/develop/resources/logo.png" style="width: 250px">
 
 **I am currently developing WebCaster, an open-source web radio management tool based on Liquidsoap and Icecast, written in .Net Core / C#.** [Feel free to check it out 😅](https://github.com/gmasquelier59/WebCaster/tree/develop).
 
 I am working on this project for a personal need and to develop my knowledge in C#, but I will make it available to everyone
+
+</div>
 
 ## Get in touch
 
