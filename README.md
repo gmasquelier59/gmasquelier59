@@ -29,11 +29,13 @@ What followed was a **18 years professional career in back-end and front-end dev
 
 ✈️ Some countries I visited: United States (California), Peru, Bolivia, Laos, Cambodia, Spain
 
-📻 I'm the proud owner of Radio of Magic, a web radio (fully online) that broadcasts music from Disneyland Paris, for free. [Listen here](https://www.radio-of-magic.com)
+📻 I'm the proud owner of Radio of Magic, a web radio (fully online) that broadcasts music from Disneyland Paris, for free (🎧 [Listen here](https://www.radio-of-magic.com)). For the moment, it is hosted at RadioKing but my goal is to self-host it with WebCaster (see below ⬇️).
 
 <img src="https://raw.githubusercontent.com/gmasquelier59/WebCaster/develop/resources/logo.png" style="width: 200px">
 
-**I am currently developing WebCaster, a web radio management tool based on Liquidsoap and Icecast, written in .Net Core / C#.** [Feel free to check it out 😅](https://github.com/gmasquelier59/WebCaster/tree/develop).
+**I am currently developing WebCaster, an open-source web radio management tool based on Liquidsoap and Icecast, written in .Net Core / C#.** [Feel free to check it out 😅](https://github.com/gmasquelier59/WebCaster/tree/develop).
+
+I am working on this project for a personal need and to develop my knowledge in C#, but I will make it available to everyone
 
 ## Get in touch
 
@@ -63,17 +65,19 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-masquelier-b
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-83c5be?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="SOAP Webservices" src="https://img.shields.io/badge/-SOAP%20Webservices-83c5be?style=flat-square&logoColor=white" />
     <img alt="REST Api" src="https://img.shields.io/badge/-REST%20Api-83c5be?style=flat-square&logoColor=white" />
+    <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-83c5be?style=flat-square&logo=insomnia&logoColor=white" />
     <img alt="Postman" src="https://img.shields.io/badge/-Postman-83c5be?style=flat-square&logo=postman&logoColor=white" />
     <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-83c5be?style=flat-square&logo=wordpress&logoColor=white" />
     <img alt="eZ Publish" src="https://img.shields.io/badge/-eZ%20Publish-83c5be?style=flat-square&logo=ezpublish&logoColor=white" />
     <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-83c5be?style=flat-square&logo=nestjs&logoColor=white" />
     <!-- -------------------------------------------------- -->
     <br>
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-ffddd2?style=flat-square&logo=visualstudiocode&logoColor=black" />
+    <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studo-ffddd2?style=flat-square&logo=visualstudio&logoColor=black" />
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-ffddd2?style=flat-square&logo=visualstudiocode&logoColor=black" />
     <img alt="Bash / Zsh" src="https://img.shields.io/badge/-Bash%20/%20Zsh-ffddd2?style=flat-square&logo=zsh&logoColor=black" />
     <img alt="Bash / Zsh" src="https://img.shields.io/badge/-Bash%20/%20Zsh-ffddd2?style=flat-square&logo=DBeaver&logoColor=black" />
     <img alt="PnPm" src="https://img.shields.io/badge/-PnPm-ffddd2?style=flat-square&logo=pnpm&logoColor=black" />
-        <img alt="PnPm" src="https://img.shields.io/badge/-Obsidian-ffddd2?style=flat-square&logo=obsidian&logoColor=black" />
+    <img alt="PnPm" src="https://img.shields.io/badge/-Obsidian-ffddd2?style=flat-square&logo=obsidian&logoColor=black" />
     <!-- -------------------------------------------------- -->
     <br><img alt="Github" src="https://img.shields.io/badge/-Github-e29578?style=flat-square&logo=github&logoColor=white" />
     <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-e29578?style=flat-square&logo=gitlab&logoColor=white" />
