@@ -37,7 +37,7 @@ What followed was a **18 years professional career in back-end and front-end dev
 
 **I am currently developing *WebCaster*, an open-source web radio management tool based on Liquidsoap and Icecast, written in .Net Core / C#.** [Feel free to check it out 😅](https://github.com/gmasquelier59/WebCaster/tree/develop).
 
-I am working on this project for a personal need and to develop my knowledge in C#, but I will make it available to everyone
+I am working on this project for a personal need and to develop my knowledge in C#, but I will make it available to everyone ✌️
 
 ---
 
