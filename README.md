@@ -33,9 +33,9 @@ What followed was a **18 years professional career in back-end and front-end dev
 
 ---
 
-<a href="https://github.com/gmasquelier59/WebCaster/tree/develop"><img src="https://raw.githubusercontent.com/gmasquelier59/WebCaster/develop/resources/logo.png" style="width: 200px"></a>
+<a href="https://github.com/gmasquelier59/WebCaster/tree/develop"><img src="https://github.com/WebCastr/WebCastr/raw/main/resources/logo-150.png" style="width: 300px"></a>
 
-**I am currently developing *WebCaster*, an open-source web radio management tool based on Liquidsoap and Icecast, written in .Net Core / C#.** [Feel free to check it out 😅](https://github.com/gmasquelier59/WebCaster/tree/develop).
+**I am currently developing *WebCastr*, an open-source webradio management suite based on Liquidsoap and Icecast, written in .Net Core / C#.** [Feel free to check it out (develop branch) 😅](https://github.com/WebCastr/WebCastr).
 
 I am working on this project for a personal need and to develop my knowledge in C#, but I will make it available to everyone ✌️
 
