@@ -76,10 +76,11 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-masquelier-b
     <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-83c5be?style=flat-square&logo=nestjs&logoColor=white" />
     <!-- -------------------------------------------------- -->
     <br>
-    <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studo-ffddd2?style=flat-square&logo=visualstudio&logoColor=black" />
+    <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-ffddd2?style=flat-square&logo=visualstudio&logoColor=black" />
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-ffddd2?style=flat-square&logo=visualstudiocode&logoColor=black" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-ffddd2?style=flat-square&logo=docker&logoColor=black" />
     <img alt="Bash / Zsh" src="https://img.shields.io/badge/-Bash%20/%20Zsh-ffddd2?style=flat-square&logo=zsh&logoColor=black" />
-    <img alt="Bash / Zsh" src="https://img.shields.io/badge/-Bash%20/%20Zsh-ffddd2?style=flat-square&logo=DBeaver&logoColor=black" />
+    <img alt="DBeaver" src="https://img.shields.io/badge/-DBeaver-ffddd2?style=flat-square&logo=DBeaver&logoColor=black" />
     <img alt="PnPm" src="https://img.shields.io/badge/-PnPm-ffddd2?style=flat-square&logo=pnpm&logoColor=black" />
     <img alt="PnPm" src="https://img.shields.io/badge/-Obsidian-ffddd2?style=flat-square&logo=obsidian&logoColor=black" />
     <!-- -------------------------------------------------- -->
