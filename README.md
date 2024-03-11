@@ -45,8 +45,6 @@ I am working on this project for a personal need and to develop my knowledge in 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-masquelier-b9433314/) or reach me out directly at gmasquelier@gmail.com
 
-📢 **Available for business from April 2024**
-
 ## Things I code with
 
 <p>
